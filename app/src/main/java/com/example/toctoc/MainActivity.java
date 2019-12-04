@@ -54,7 +54,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     WriteThread wt;
 
     String serverIp = "192.168.2.62";
-    int serverPort = 7000;
+    int serverPort = 7070;
 
 
     @Override
